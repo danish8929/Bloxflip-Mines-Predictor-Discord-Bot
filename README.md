@@ -1,5 +1,5 @@
 # Bloxflip-Mines-Predictor-Discord-Bot
-
+f18a57f43dd6a94d4a159cb9b1d40b4326c6b735ddb609e0d68b358ffa311dd8
 ![image](https://user-images.githubusercontent.com/98252854/201436470-34c74a88-60c0-443d-a172-c07551284589.png)
 
 ## 📝Features and Usage
